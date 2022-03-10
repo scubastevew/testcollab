@@ -1,0 +1,13 @@
+name: collabtest
+title: collabtest
+username: Bobpublisher
+account: Bobpublisher
+server: 10.0.4.127
+hostUrl: http://10.0.4.127:3939/__api__
+appId: 100
+bundleId: 168
+url: http://10.0.4.127:3939/content/ff228dd2-5a7f-4a05-88af-105eca15fe95/
+when: 1646941217.54243
+lastSyncTime: 1646941217.54243
+asMultiple: FALSE
+asStatic: TRUE
